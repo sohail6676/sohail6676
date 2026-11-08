@@ -5,4 +5,4 @@ I work in Graphic Designing, Quality Assurance (QA), and Web Designing. I enjoy 
 I use Canva and Adobe Photoshop for graphic designing, and I'm continuously improving my skills in QA and Web Design.
 I believe in learning through practice, improving myself, and trying something new every day.
 I'm always happy to connect with new people, share ideas, and work on creative projects.
-Thanks for visiting my GitHub profile! 😊
+Thanks for visiting my GitHub profile! 
