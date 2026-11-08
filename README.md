@@ -98,10 +98,12 @@ I'm a creative person who enjoys learning new things and exploring the world of 
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohail6676&show_icons=true&theme=default" height="160" />
+<p align="center">
+  <a href="https://github.com/sohail6676?tab=followers"><img src="https://img.shields.io/github/followers/sohail6676?style=for-the-badge&logo=github&color=6C63FF&labelColor=181717" /></a>
+  <a href="https://github.com/sohail6676?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20All-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sohail6676&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 </p>
 
 ---
