@@ -100,7 +100,7 @@ I'm a creative person who enjoys learning new things and exploring the world of 
 
 ## GitHub Stats
 
-<p align="center">
+p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohail6676&show_icons=true&theme=default" height="160" />
 </p>
 
