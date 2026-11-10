@@ -15,13 +15,15 @@
 
 ## About Me
 
-I'm a creative person who enjoys learning new things and exploring the world of technology and design. I love creating attractive designs, checking the quality of websites and applications, and building user-friendly web pages.
+I am a creative and motivated individual with a passion for graphic design, quality assurance, and web development. I enjoy learning new technologies, improving my skills, and creating projects that are both visually appealing and user-friendly.
 
-- 🎨 Graphic Designer using **Canva** and **Adobe Photoshop**
-- 🐞 Quality Assurance (QA), testing websites and applications
-- 🌐 Web Designer, creating clean and user-friendly pages
-- 📚 Learning through practice and trying something new every day
-- 🤝 Always happy to connect, share ideas and work on creative projects
+- 🎨 **Graphic Designer:** Creating professional and eye-catching designs using Canva and Adobe Photoshop.
+- 🐞 **QA Tester:** Testing websites and applications, identifying bugs, and reporting issues to improve quality.
+- 🌐 **Web Designer:** Designing clean, modern, and user-friendly web pages.
+- 💻 **Technology Enthusiast:** Exploring new tools, technologies, and practical projects.
+- 📚 **Continuous Learner:** Always improving my skills through practice and new challenges.
+
+I am passionate about creativity, problem-solving, and delivering quality work. I look forward to connecting with professionals and gaining new opportunities to grow.
 
 ---
 
