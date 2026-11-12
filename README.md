@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hi, I'm Sohail 👋
+# Hello Everyone , I'm Sohail 👋
 
 **Graphic Designer | QA Tester | Web Designer**
 
